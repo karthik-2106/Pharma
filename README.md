@@ -5,7 +5,6 @@
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
 
 ## DESIGN STEPS:
-
 ### Step 1:
 Clone the repository from GitHub.
 
@@ -436,12 +435,13 @@ Publish the website in the LocalHost.
 </body>
 </html>
 ```
+
+
 ## OUTPUT:
+
 ![Screenshot 2024-05-10 134229](https://github.com/karthik-2106/Pharma/assets/150319557/c0647e52-c975-49f7-9e74-4181033764e2)
 ![Screenshot 2024-05-10 134248](https://github.com/karthik-2106/Pharma/assets/150319557/7d2f1201-487d-4043-8986-f0f6821f93fc)
 ![Screenshot 2024-05-10 134305](https://github.com/karthik-2106/Pharma/assets/150319557/1fb646db-0233-4b64-b875-0d4066e63ab6)
 ![Screenshot 2024-05-10 134322](https://github.com/karthik-2106/Pharma/assets/150319557/1e76d9df-a8ff-4704-a8de-974ec8346c29)
-
-
 ## RESULT:
 The program for responsive web design using Bootstrap is completed successfully.
